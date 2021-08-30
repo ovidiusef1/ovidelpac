@@ -56,5 +56,6 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toEndOf="@+id/toast_button"
         app:layout_constraintTop_toBottomOf="@+id/textview_first"
+        android:background="@color/BackgroundColor"
         />
 </android.support.constraint.ConstraintLayout>

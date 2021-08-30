@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="cox">#011379</color>
     <color name="WalterWhite">#52ED3E07</color>
+    <color name="BackgroundColor">#BBDEFB</color>
 </resources>
