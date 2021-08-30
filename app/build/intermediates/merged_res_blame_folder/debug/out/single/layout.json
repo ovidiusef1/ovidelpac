@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ovi/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/home/ovi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/home/ovi/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/ovi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/ovi/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/home/ovi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/ovi/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/home/ovi/AndroidStudioProjects/MyApplication/app/src/main/res/layout/fragment_second.xml"
+    }
+]
